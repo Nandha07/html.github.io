@@ -12,10 +12,10 @@
    <p>  hi hello<br> hi hello</p>
 
 
-   <div style=" background-color:red;">
+   <div style=" background-color:red;"> </div>
       <h2> division tag <h2>
       <p> div  <p>
-  </div>
+ 
     
      
       
