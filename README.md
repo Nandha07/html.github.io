@@ -20,15 +20,13 @@
       <h2> division tag <h2>
       <p> div  <p>
     </div>
-    <div style=" background-color:green;">
-      <h2> division tag <h2>
-      <p> div  <p>
-    </div>
-      <h1>span tag</h1>
-      <p><span>SPAN IS IMPORTANT</span> <span style="color:red;"></span> IMPORTENT </p>
+    
+     
+      
+   <p><span>SPAN IS IMPORTANT</span> <span style="color:red;"></span> IMPORTENT </p>
       <p><span>SPAN IS IMPORTANT</span> <span > IMPORTENT</span </p>
       <h1 id='top'>  html entities </h1>
-      <p> &lt</p>
+          <p> &lt</p>
           <p> &gt</p>
           <p> &dollor</p>
           <p> &pound</p>
@@ -49,7 +47,7 @@
    <img src="capture.jpg"alt = image" width="300" height ="39"/>
       <img src= "https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D980747691953184&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fachamthavirtamizhaa%2Fphotos%2F&tbnid=8rIRluAPqAuqIM&vet=12ahUKEwjU8PrAiJ_qAhWJGHIKHVuYClIQMygEegUIARDLAQ..i&docid=kH7TCfvqlPUtaM&w=500&h=500&q=tamilanda%20image&ved=2ahUKEwjU8PrAiJ_qAhWJGHIKHVuYClIQMygEegUIARDLAQ""alt =hi" width="250" height ="200"/>
       <h1> iframe </h1>
-      <iframe src="https://www.youtube.com/embeded/VGkXwj6AYNI" alt=almost everthing" width="66"height="45"></iframe>
+      <iframe src="https://www.youtube.com/embed/VGkXwj6AYNI" alt=almost everthing" width="66"height="45"></iframe>
 
 
    </body>
