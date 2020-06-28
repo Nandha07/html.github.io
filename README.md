@@ -3,11 +3,7 @@
 <html>
   <head>
    <title>basic </title>
-   <style >
-    span{
-      color:red;
-      }
-    </style>
+  
   </head>
   <body>
       <h1>welcome to my channel</h1>
