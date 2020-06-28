@@ -14,12 +14,12 @@
 
    <div style=" background-color:red;"> 
       <h2> division tag </h2>
-      <p> div  </p></div>
- 
+      <p> div  </p>
+ </div>
     
      
       
-   <p><span>SPAN IS IMPORTANT</span> <span style="color:red;"></span> IMPORTENT </p>
+   <p> <span style="color:red;"> IMPORTENT</span> </p>
       <p><span>SPAN IS IMPORTANT</span> <span > IMPORTENT</span </p>
       <h1 id='top'>  html entities </h1>
           <p> &lt</p>
