@@ -20,9 +20,9 @@
      
       
    <p> <span style="color:red;"> IMPORTENT</span> </p>
-      <p><span>SPAN IS IMPORTANT</span> <span > IMPORTENT</span </p>
+      <p><SPAN IS IMPORTAN IMPORTENT </p>
       <h1 id='top'>  html entities </h1>
-          <p> &lt</p>
+          <p> &lt<p>
           <p> &gt</p>
           <p> &dollor</p>
           <p> &pound</p>
