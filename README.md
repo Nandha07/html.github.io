@@ -13,8 +13,8 @@
 
 
    <div style=" background-color:red;"> 
-      <h2> division tag <h2></div>
-      <p> div  <p>
+      <h2> division tag </h2>
+      <p> div  </p></div>
  
     
      
