@@ -12,8 +12,8 @@
    <p>  hi hello<br> hi hello</p>
 
 
-   <div style=" background-color:red;"> </div>
-      <h2> division tag <h2>
+   <div style=" background-color:red;"> 
+      <h2> division tag <h2></div>
       <p> div  <p>
  
     
